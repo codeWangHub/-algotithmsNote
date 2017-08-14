@@ -1,0 +1,8 @@
+#Windows 
+*.class
+*.obj
+*.depend
+*.cbp
+*.o
+*.layout
+*.exe
